@@ -1,7 +1,7 @@
 import { NativeScriptConfig } from '@nativescript/core'
 
 export default {
-  id: 'com.fbmsger.fkfb',
+  id: 'com.fbweb.fkfb',
   appPath: 'src',
   appResourcesPath: 'App_Resources',
   android: {
